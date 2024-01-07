@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/slmy1o6rt8f1nhap?svg=true)](https://ci.appveyor.com/project/Dmitriy199708/unit-bdd)
 
 
 # Домашнее задание к занятию «2.4. BDD»
